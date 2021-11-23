@@ -1,5 +1,8 @@
 # yolov5s_demo
 RP4 ,NCS2 and Openvino
+
+The Yolov5 code uses: https://github.com/ultralytics/yolov5 
+
 (PC)openvino version: **w_openvino_toolkit_p_2021.4.752_online.exe**
 
 ​										**CMake 3.21.1**
